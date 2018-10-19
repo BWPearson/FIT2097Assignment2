@@ -1,4 +1,5 @@
 Github Repo:https://github.com/BWPearson/FIT2097Assignment2
+Video Walkthrough in the GameWalkthrough.7z
 
 Missing functionality includes a Ui (Messages are sent to all players via debug)
 extra functionality is incomplete due to lack of UI.
